@@ -1,38 +1,12 @@
 ---
-title: Hello World
+title: The Masked Singer UK S05E06
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Murloc TV](https://murloc.icu/)! This blog is about reviews on TV shows.
+## The Masked Singer UK
 
-## Quick Start
+### S05E06
 
-### Create a new post
+Joel Dommett hosts the UK version of the celebrity singing competition. Showbiz stars hide their vocal talents behind elaborate disguises as a panel guesses at their identity.
 
-``` bash
-$ hexo new "My New Post"
-```
+More info: [BT Download link](https://murloc.icu/torrents/cbb15c614c5e6070644a9be7229069ff41357a69/)
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
