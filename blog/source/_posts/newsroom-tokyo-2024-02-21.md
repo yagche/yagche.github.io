@@ -10,5 +10,5 @@ Welcome to [Murloc TV](https://murloc.icu/)! This blog is about reviews on TV sh
 The 2024.02.21 episode covers the G7 summit on Ukraine, Fukushima Daiichi nuclear plant incidents, the deadly boat chase happened between Taiwan-China near Kinmen islands and more. 
 
 
-More info: [BT Download link](https://murloc.icu/torrents/7954d603def33d6ad1c75a9f47f3493bd3363e60/)
+More info: [BitTorrent Download link](https://murloc.icu/torrents/7954d603def33d6ad1c75a9f47f3493bd3363e60/)
 
