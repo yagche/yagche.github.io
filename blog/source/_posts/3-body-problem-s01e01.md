@@ -18,4 +18,4 @@ A fateful decision made in 1960s China reverberates in the present, where a grou
 
 第三个特点就是为外国观众喜闻乐见的大尺度场面，这里观众可以自行想象，至于大制作与大场面倒不是特别令人惊讶。
 
-More info: [download](https://murloc.icu/torrents/8264c147bbb6561cf4dc87c85ce5f59a07492461/) [youtube](https://www.youtube.com/watch?v=fZ4nzNIhIEo) 
+More info: [download](https://murloc.icu/torrents/666b589d96aca0f54f6b119d9c7357c65e0fea9e/) [youtube](https://youtu.be/K2uB2OuQoeo)
